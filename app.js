@@ -9,7 +9,7 @@ var pics = [
 	"Ollie/7.JPG",
 	"Ollie/8.JPG",
 	"Ollie/9.JPG",
-	"Ollie/10.JPG",
+	"Ollie/10.JPG"
 ] // An array of photos
 
 var btn = document.querySelector("button"); //Searches in the HTML document for "button" and stores it in the variable btn
